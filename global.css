@@ -9,15 +9,18 @@ Feel free to play with it!*/
 * {
     font-family: 'lockergnome';
     background-color: beige;
-    font-size: 1.1em;
 }
 
 body {
     max-width: 1024px;
-    margin: 0 auto; 
+    margin: 10 auto; 
 }
 
 h1 {    
-    font-size: 3em;
+    font-size: 2em;
     color: pink;
+}
+
+p {
+    font-size: 1em;
 }
